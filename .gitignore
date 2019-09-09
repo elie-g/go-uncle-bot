@@ -16,4 +16,10 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
-.idea
+.idea/
+
+bin/
+
+.env
+.uncle-bot.*
+!.uncle-bot.example.yaml
