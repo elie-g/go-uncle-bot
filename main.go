@@ -1,8 +1,8 @@
 package main
 
 import (
-    "github.com/DrunkenPoney/go-uncle-bot/bot"
-    . "github.com/DrunkenPoney/go-uncle-bot/utils"
+    "github.com/elie-g/go-uncle-bot/bot"
+    . "github.com/elie-g/go-uncle-bot/utils"
     _ "github.com/joho/godotenv/autoload"
     "github.com/mitchellh/go-homedir"
     "github.com/spf13/cobra"

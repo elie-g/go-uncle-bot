@@ -1,4 +1,4 @@
-module github.com/DrunkenPoney/go-uncle-bot
+module github.com/elie-g/go-uncle-bot
 
 go 1.13
 
